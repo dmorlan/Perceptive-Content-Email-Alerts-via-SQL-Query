@@ -24,7 +24,7 @@
 #if defined(imagenowDir6)
 	// 6.7.0.2717+, including Active-Active support
 	#include "$IMAGENOWDIR6$/script/STL/packages/Email/iEmail.js"
-    #include "$IMAGENOWDIR6$/script/STL/packages/Logging/iScriptDebug.js"
+    	#include "$IMAGENOWDIR6$/script/STL/packages/Logging/iScriptDebug.js"
 	#include "$IMAGENOWDIR6$/script/STL/packages/Object/hashKeysToUpperCase.js"
 	#include "$IMAGENOWDIR6$/script/STL/packages/Workflow/routeItem.js"
 	#include "$IMAGENOWDIR6$/script/STL/packages/Email/iEmail.js"
@@ -35,7 +35,7 @@
 
 #else
 	// pre-6.7.0.2717, no Active-Active support
-    #include "../script/STL/packages/Email/iEmail.js"
+    	#include "../script/STL/packages/Email/iEmail.js"
 	#include "../script/STL/packages/Logging/iScriptDebug.js"
 	#include "../script/STL/packages/Object/hashKeysToUpperCase.js"
 	#include "../script/STL/packages/Workflow/routeItem.js"
