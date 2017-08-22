@@ -1,5 +1,5 @@
 /********************************************************************************
-	Name:           AlertNewDocs.js
+	Name:           Perceptive-Content-Email-Alerts-via-SQL-Query.js
 	Author:         Dustin Morlan
 	Created:        11/08/2016 - DDM
 	Last Updated:   11/16/2016 - DDM
